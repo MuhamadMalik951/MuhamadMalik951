@@ -34,6 +34,8 @@ Here are some of my highlight projects:
 
 📝 [To-Do List](https://github.com/MuhamadMalik951/to-do) - A simple and intuitive to-do list application where users can create, manage, and prioritize tasks.
 
+❌ [Tic-Tac-Toe](https://github.com/MuhamadMalik951/Tic-Tac-Toe) - A classic Tic-Tac-Toe game built with JavaScript, featuring a simple user interface for 2-player gameplay.
+
 🍽️ [Restaurant Site](https://github.com/MuhamadMalik951/Resuarant-Site) - A restaurant website showcasing menu items, customer reviews, and a reservation feature.
 
 These projects demonstrate my proficiency in full-stack web development and showcase my ability to create functional and visually appealing web applications.
