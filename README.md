@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Muhamad Malik
+# Hi there! 👋 
+I'm Muhamad Malik
 
 <img src="https://github.com/MuhamadMalik951.png" alt="Muhamad Malik" align="right" width="150" height="150">
 
