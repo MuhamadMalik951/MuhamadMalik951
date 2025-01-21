@@ -28,11 +28,13 @@ With professional experience as a software engineer, I bring a capabble skill se
 
 Here are some of my highlight projects:
 
-🌤️ [Weather App](https://github.com/MuhamadMalik951/weather-app) - A web application that provides real-time weather forecasts for any location.
+🌤️ [Weather App](https://github.com/MuhamadMalik951/Weather-App) - A web application that provides real-time weather forecasts for any location.
 
-📝 [To-Do List](https://github.com/MuhamadMalik951/to-do-list) - A simple and intuitive to-do list application where users can create, manage, and prioritize tasks.
+📄 [Resume Builder](https://github.com/MuhamadMalik951/resume-builder) - A web application that allows users to easily create and download customized resumes with various templates.
 
-🍽️ [Restaurant Site](https://github.com/MuhamadMalik951/restaurant-site) - A restaurant website showcasing menu items, customer reviews, and a reservation feature.
+📝 [To-Do List](https://github.com/MuhamadMalik951/to-do) - A simple and intuitive to-do list application where users can create, manage, and prioritize tasks.
+
+🍽️ [Restaurant Site](https://github.com/MuhamadMalik951/Resuarant-Site) - A restaurant website showcasing menu items, customer reviews, and a reservation feature.
 
 These projects demonstrate my proficiency in full-stack web development and showcase my ability to create functional and visually appealing web applications.
 
