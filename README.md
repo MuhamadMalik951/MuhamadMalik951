@@ -30,7 +30,7 @@ Here are some of my highlight projects:
 
 🌤️ [Weather App](https://github.com/MuhamadMalik951/Weather-App) - A web application that provides real-time weather forecasts for any location.
 
-📄 [Resume Builder](https://github.com/MuhamadMalik951/resume-builder) - A web application that allows users to easily create and download customized resumes with various templates.
+📄 [Resume Builder](https://github.com/MuhamadMalik951/resume-builder) - A web application that allows users to easily create and download customized resumes..
 
 📝 [To-Do List](https://github.com/MuhamadMalik951/to-do) - A simple and intuitive to-do list application where users can create, manage, and prioritize tasks.
 
